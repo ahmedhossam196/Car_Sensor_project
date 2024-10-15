@@ -12,4 +12,4 @@ A simple parking safety system built as part of my Standard Embedded diploma at 
 - 6-10 cm: All LEDs ON (no buzzer).
 - 11-15 cm: Red and Green LEDs ON.
 - 16-20 cm: Red LED ON.
-> 20 cm: All LEDs OFF + buzzer OFF
+- > 20 cm: All LEDs OFF + buzzer OFF
