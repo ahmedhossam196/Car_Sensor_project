@@ -11,4 +11,4 @@ Smart Home Automation Using ATmega32, LCD, Temperature Sensor, LDR Sensor, Flame
 - 6-10 cm: All LEDs ON (no buzzer).
 - 11-15 cm: Red and Green LEDs ON.
 - 16-20 cm: Red LED ON.
-- > 20 cm: All LEDs OFF + buzzer OFF
+- ≥ 21 cm: All LEDs OFF + buzzer OFF
