@@ -1,4 +1,5 @@
-#Car Parking Sensor 🚗
+# Car Parking Sensor 🚗
+
 A simple parking safety system built as part of my Standard Embedded diploma at Edges For Training. This project uses an ATmega32 microcontroller and an HC-SR04 ultrasonic sensor to detect obstacles and help prevent collisions during parking.
 
 **Features:**
