@@ -6,6 +6,7 @@ A simple parking safety system built as part of my Standard Embedded diploma at 
 - Ultrasonic Distance Measurement: Detects and displays distance on an LCD.
 - LED Indicators: Red, Green, and Blue LEDs light up based on proximity.
 - Buzzer Alert: Sounds when an obstacle is closer than 5 cm.
+  
 **LED & Buzzer Behavior**
 - ≤ 5 cm: All LEDs flash + buzzer + "Stop" on LCD.
 - 6-10 cm: All LEDs ON (no buzzer).
