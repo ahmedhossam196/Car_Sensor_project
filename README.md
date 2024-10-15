@@ -1,6 +1,5 @@
 # Car Parking Sensor 🚗
-
-A simple parking safety system built as part of my Standard Embedded diploma at Edges For Training. This project uses an ATmega32 microcontroller and an HC-SR04 ultrasonic sensor to detect obstacles and help prevent collisions during parking.
+Smart Home Automation Using ATmega32, LCD, Temperature Sensor, LDR Sensor, Flame Sensor and Motor Contro
 
 **Features:**
 - Ultrasonic Distance Measurement: Detects and displays distance on an LCD.
@@ -12,4 +11,4 @@ A simple parking safety system built as part of my Standard Embedded diploma at 
 - 6-10 cm: All LEDs ON (no buzzer).
 - 11-15 cm: Red and Green LEDs ON.
 - 16-20 cm: Red LED ON.
--  > 20 cm: All LEDs OFF + buzzer OFF
+- > 20 cm: All LEDs OFF + buzzer OFF
